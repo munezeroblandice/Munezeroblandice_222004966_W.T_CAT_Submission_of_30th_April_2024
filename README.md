@@ -58,12 +58,3 @@ To access the admin dashboard and interact with the system, use the following cr
 2. Set up a local web server environment (e.g., XAMPP, WAMP) and import the project files.
 3. Create a MySQL database named `eclass_management_system` and import the provided SQL dump file to set up the database schema.
 4. Update the database connection details in the PHP files (`dbconnection.php`, `userdata.php`, etc.) to match your local environment.
-
-## Contributors
-
-- John Doe (@john_doe)
-- Jane Smith (@jane_smith)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
